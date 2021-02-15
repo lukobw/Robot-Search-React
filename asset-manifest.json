@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robot-Search-React/static/css/main.f381aafa.chunk.css",
+    "main.js": "/Robot-Search-React/static/js/main.60d0a97f.chunk.js",
+    "main.js.map": "/Robot-Search-React/static/js/main.60d0a97f.chunk.js.map",
+    "runtime-main.js": "/Robot-Search-React/static/js/runtime-main.56131539.js",
+    "runtime-main.js.map": "/Robot-Search-React/static/js/runtime-main.56131539.js.map",
+    "static/css/2.038644eb.chunk.css": "/Robot-Search-React/static/css/2.038644eb.chunk.css",
+    "static/js/2.8ee8d268.chunk.js": "/Robot-Search-React/static/js/2.8ee8d268.chunk.js",
+    "static/js/2.8ee8d268.chunk.js.map": "/Robot-Search-React/static/js/2.8ee8d268.chunk.js.map",
+    "index.html": "/Robot-Search-React/index.html",
+    "precache-manifest.a4b3c0670e7ffb078b1b22c8ac3eba50.js": "/Robot-Search-React/precache-manifest.a4b3c0670e7ffb078b1b22c8ac3eba50.js",
+    "service-worker.js": "/Robot-Search-React/service-worker.js",
+    "static/css/2.038644eb.chunk.css.map": "/Robot-Search-React/static/css/2.038644eb.chunk.css.map",
+    "static/css/main.f381aafa.chunk.css.map": "/Robot-Search-React/static/css/main.f381aafa.chunk.css.map",
+    "static/js/2.8ee8d268.chunk.js.LICENSE.txt": "/Robot-Search-React/static/js/2.8ee8d268.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robot-Search-React/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56131539.js",
+    "static/css/2.038644eb.chunk.css",
+    "static/js/2.8ee8d268.chunk.js",
+    "static/css/main.f381aafa.chunk.css",
+    "static/js/main.60d0a97f.chunk.js"
+  ]
+}
